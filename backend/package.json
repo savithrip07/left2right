@@ -1,0 +1,17 @@
+{
+  "name": "left2right-backend",
+  "version": "1.0.0",
+  "description": "Left2Right backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^6.20.0",
+    "nodemailer": "^8.0.7"
+  }
+}
