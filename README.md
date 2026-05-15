@@ -100,4 +100,4 @@ Frontend runs on `http://localhost:3000`
 | `EMAIL_USER` | Gmail address for sending emails |
 | `EMAIL_PASS` | Gmail app password (16 characters) |
 
-> Email is optional — the app works without it. Only forgot password and rejection notification emails won't be sent.
+> Email is optional - the app works without it. Only forgot password and rejection notification emails won't be sent.
